@@ -1,4 +1,5 @@
-# PythonStudyLoad
-python学习之路
+# python学习之路
+Life is short, you need python.
 
-Life is short, you need python!
+# list
+1. finished lesson01, 2017/06/26
